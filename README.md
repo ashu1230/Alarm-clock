@@ -13,5 +13,4 @@
 
 
 <h1><b>Screenshot of this project.</b></h1>
-
-![Bill](Bill.PNG)
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
