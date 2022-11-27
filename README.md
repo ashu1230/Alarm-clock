@@ -13,4 +13,4 @@
 
 
 <h1><b>Screenshot of this project.</b></h1>
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="Screenshot 2022-11-27 122619.png">
